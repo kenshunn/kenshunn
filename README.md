@@ -11,6 +11,8 @@
 - **`$ git push`** - Uploads local branch commits to Github.
 - **`$ git commit -m "[message]"`** - Permanently records snapshots in version history, message replaced with descriptive message about the commit.
 - **`$ git reset [commit]`** - Undo the commits done, preserving the changes locally.
+- **`$ git status`** - Examines the status of the branches.
+- **`$ git config --global user.name "[name]"`** - Sets the name of the commit transactions.
 
 ## ------------------------------------------------------------------------------
 
